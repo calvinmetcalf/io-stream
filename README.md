@@ -1,3 +1,5 @@
+# NO LONGER NEEDED, JUST USE [readable-stream](https://www.npmjs.com/package/readable-stream)
+
 # io-stream
 
 [![Build Status](https://travis-ci.org/calvinmetcalf/io-stream.svg)](https://travis-ci.org/calvinmetcalf/io-stream)
