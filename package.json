@@ -1,6 +1,6 @@
 {
   "name": "io-stream",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "userland copy of iojs streams",
   "main": "readable.js",
   "dependencies": {
